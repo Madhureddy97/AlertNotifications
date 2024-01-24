@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.notifications-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.alert-notifications-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+}
